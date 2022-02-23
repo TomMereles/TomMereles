@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Tom</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=plastic" alt="tommereles" /> </p>
 
 - 🔭 I’m currently working on [Ambiente Livre](https://www.ambientelivre.com.br/)
