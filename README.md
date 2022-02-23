@@ -3,19 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=plastic" alt="tommereles" /> </p>
 
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+</a>
+
 - 🔭 I’m currently working on [Ambiente Livre](https://www.ambientelivre.com.br/)
 
-- 🌱 I’m currently learning **NiFi, Hadoop, Spark, Airflow and Pentaho.**
+- 🌱 I’m currently learning **NiFi, Hadoop, Spark, 
+Airflow and Pentaho.**
 
 - 👊 I’m looking to collaborate on [Python.org](https://www.python.org/psf/membership/)
 
 - 💬 Ask me about **Python and Big Data.**
 
 - ⚡ Fun fact **Don't call me at dawn!**
-
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
