@@ -9,8 +9,7 @@
 
 - 🔭 I’m currently working on [Ambiente Livre](https://www.ambientelivre.com.br/)
 
-- 🌱 I’m currently learning **NiFi, Hadoop, Spark, 
-Airflow and Pentaho.**
+- 🌱 I’m currently learning **NiFi, Hadoop, Spark, Airflow and Pentaho.**
 
 - 👊 I’m looking to collaborate on [Python.org](https://www.python.org/psf/membership/)
 
