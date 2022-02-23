@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/tom-mereles/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tom-mereles/" height="30" width="115" /></a>
 <a href="https://www.datacamp.com/profile/tommereles" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="Datacamp" width="115" height="30"/> </a>
-<a href="https://medium.com/@tommereles" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@tommereles" height="30" width="115" /></a> <a href="https://dev.to/tommereles" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="tommereles" height="30" width="115" /></a>
+<a href="https://medium.com/@tommereles" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@tommereles" height="30" width="118" /></a> <a href="https://dev.to/tommereles" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="tommereles" height="30" width="119" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
