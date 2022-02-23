@@ -20,7 +20,7 @@
 <a href="https://dev.to/tommereles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tommereles" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tom-mereles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tom-mereles/" height="30" width="40" /></a>
 <a href="https://medium.com/@tommereles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tommereles" height="30" width="40" /></a>
-<a href="https://www.datacamp.com/profile/tommereles" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="Datacamp" width="100" height="40"/> </a>
+<a href="https://www.datacamp.com/profile/tommereles" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="Datacamp" width="120" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
