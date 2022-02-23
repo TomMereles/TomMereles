@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=flat" alt="tommereles" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=plastic" alt="tommereles" /> </p>
 
 - 🔭 I’m currently working on [Ambiente Livre](https://www.ambientelivre.com.br/)
 
@@ -29,4 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/tommereles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tommereles" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommereles&show_icons=true&locale=en&layout=compact" alt="tommereles" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommereles&show_icons=true&theme=dark&locale=en&layout=compact" alt="tommereles" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommereles&theme=dark" alt="tommereles" /></p>
