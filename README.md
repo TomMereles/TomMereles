@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/TomMereles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><a href="https://github.com/TomMereles" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">
   <a href="https://github.com/TomMereles" target="_blank" rel="noreferrer">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=plastic" alt="tommereles" /> </p>
+<p align="left"> <a href="https://github.com/TomMereles" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=plastic" alt="tommereles" /> </p>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
