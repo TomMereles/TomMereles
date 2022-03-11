@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/TomMereles" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=tommereles&label=Profile%20views&color=115178&style=plastic" alt="tommereles" /> </a></p>
 
-<a target="_blank">
+<a href="https://github.com/TomMereles" target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TomMereles/TomMereles/blob/main/image.gif">
 </a>
 
