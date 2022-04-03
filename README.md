@@ -44,6 +44,4 @@
 <p> <a href="https://github.com/TomMereles" target="_blank" rel="noreferrer"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommereles&show_icons=true&theme=dark&locale=en&layout=compact" alt="tommereles" /> </a></p>
 
 <p> <a href="https://github.com/TomMereles" target="_blank" rel="noreferrer"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommereles&theme=dark" alt="tommereles" /> </a></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tommereles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="https://www.buymeacoffee.com/tommereles" /></a></p><br><br>
+<br><br>
