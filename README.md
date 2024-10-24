@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Cogna](https://www.kroton.com.br/)
 
-- 🌱 I’m currently learning **NiFi, Hadoop, Spark, Airflow and Pentaho.**
+- 🌱 I’m currently learning **AWS, Spark, Airflow and Kafka.**
 
 - 👊 I’m looking to collaborate on [Python.org](https://www.python.org/psf/membership/)
 
