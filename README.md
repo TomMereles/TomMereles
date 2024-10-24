@@ -14,7 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TomMereles/TomMereles/blob/main/image.gif">
 </a>
 
-- 🔭 I’m currently working on [Bradesco](https://banco.bradesco/html/classic/index.shtm)
+- 🔭 I’m currently working on [Cogna](https://www.kroton.com.br/)
 
 - 🌱 I’m currently learning **NiFi, Hadoop, Spark, Airflow and Pentaho.**
 
